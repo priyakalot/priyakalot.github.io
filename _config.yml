@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+title: Priyanka Nanayakkara
+logo: assets/images/me.jpg
+
+nav:
+ - name: "About"
+   link: ""

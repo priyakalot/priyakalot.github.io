@@ -5,3 +5,8 @@ The photo was taken at the [Museumplein](https://en.wikipedia.org/wiki/Museumple
 ## Publications
 Nanayakkara, P. & Hullman, J. (2020). Toward better communication of uncertainty in science journalism. Computation + Journalism. (Conference postponed)
 
+## Fellowships
+Advanced Cognitive Science Fellowship (2020-2021), Northwestern University 
+Data Science Fellowship (2019-2020), Northwestern Institute on Complex Systems (NICO)
+
+

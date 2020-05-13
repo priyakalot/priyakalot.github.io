@@ -2,4 +2,6 @@ Hi! I'm a first-year PhD student in [Technology and Social Behavior](https://tsb
 
 The photo was taken at the [Museumplein](https://en.wikipedia.org/wiki/Museumplein "https://en.wikipedia.org/wiki/Museumplein"), at the corner closest to the Stedelijk Museum.
 
+## Publications
+Nanayakkara, P. & Hullman, J. (2020). Toward better communication of uncertainty in science journalism. Computation + Journalism. (Conference postponed)
 

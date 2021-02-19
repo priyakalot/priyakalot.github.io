@@ -5,7 +5,7 @@ The photo was taken at the [Museumplein](https://en.wikipedia.org/wiki/Museumple
 ## Workshop Papers and Non-archival Publications
 Nanayakkara, P., Diakopoulos, N., & Hullman, J. (2020). Anticipatory ethics and the role of uncertainty. Navigating the Broader Impacts of AI Research Workshop at NeurIPS 2020. [[pdf]](https://arxiv.org/pdf/2011.13170.pdf)
 
-Nanayakkara, P. & Hullman, J. (2020). Toward better communication of uncertainty in science journalism. Computation + Journalism. (Conference postponed)
+Nanayakkara, P. & Hullman, J. (2020). Toward better communication of uncertainty in science journalism. Computation + Journalism.
 
 ## Fellowships
 * Advanced Cognitive Science Fellowship (2020-2021), Northwestern University

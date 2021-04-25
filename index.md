@@ -2,7 +2,10 @@ Hi! I'm a PhD student in [Technology and Social Behavior](https://tsb.northweste
 
 The photo was taken at the [Museumplein](https://en.wikipedia.org/wiki/Museumplein "https://en.wikipedia.org/wiki/Museumplein"), at the corner closest to the Stedelijk Museum.
 
-## Workshop Papers and Non-archival Publications
+## Peer-Reviewed Publications
+Nanayakkara, P., Hullman, J., Diakopoulos, N. (2021). Unpacking the Expressed Consequences of AI Research in Broader Impact Statements. To appear at Artificial Intelligence, Ethics, & Society (AIES) 2021.
+
+## Workshop Papers and Non-Archival Publications
 Nanayakkara, P., Diakopoulos, N., & Hullman, J. (2020). Anticipatory ethics and the role of uncertainty. Navigating the Broader Impacts of AI Research Workshop at NeurIPS 2020. [[pdf]](https://arxiv.org/pdf/2011.13170.pdf)
 
 Nanayakkara, P. & Hullman, J. (2020). Toward better communication of uncertainty in science journalism. Computation + Journalism.

@@ -2,7 +2,7 @@ Hi! I'm a PhD student in [Technology and Social Behavior](https://tsb.northweste
 
 The photo was taken at the [Museumplein](https://en.wikipedia.org/wiki/Museumplein "https://en.wikipedia.org/wiki/Museumplein"), at the corner closest to the Stedelijk Museum.
 
-## Peer-Reviewed Publications
+## Publications
 Nanayakkara, P., Hullman, J., Diakopoulos, N. (2021). Unpacking the Expressed Consequences of AI Research in Broader Impact Statements. To appear at Artificial Intelligence, Ethics, & Society (AIES) 2021.
 
 ## Workshop Papers and Non-Archival Publications

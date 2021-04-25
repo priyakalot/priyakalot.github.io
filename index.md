@@ -1,6 +1,6 @@
 Hi! I'm a PhD student in [Technology and Social Behavior](https://tsb.northwestern.edu/ "https://tsb.northwestern.edu/"), a joint program in computer science and communication studies, at Northwestern University. My advisor is Professor [Jessica Hullman](http://users.eecs.northwestern.edu/~jhullman/). My current research is on facilitating reasoning around the implementation of differentially private algorithms (more info [here](https://cogsci.northwestern.edu/graduate/fellowships/fellowship-winners.html)). Lately, I have also been thinking about how computer science researchers consider the downstream consequences of their work. I completed my master's degree in information studies at the University of Amsterdam and my bachelor's degree in statistics at UCLA.
 
-I also co-organize the [PhD Book Club](https://hci.northwestern.edu/news-events/phd-book-club.html), which is part of the Center for Human-Computer Interaction + Design at Northwestern.
+I also co-organize HCI+D's [PhD Book Club](https://hci.northwestern.edu/news-events/phd-book-club.html). We read books that offer critical perspectives on technology and media.
 
 ## Publications
 Nanayakkara, P., Hullman, J., Diakopoulos, N. (2021). Unpacking the expressed consequences of AI research in broader impact statements. To appear at Artificial Intelligence, Ethics, & Society (AIES) 2021.

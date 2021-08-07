@@ -12,6 +12,7 @@ Nanayakkara, P. & Hullman, J. (2020). Toward better communication of uncertainty
 
 ### Fellowships
 Advanced Cognitive Science Fellowship (2020-2021), Northwestern University
+
 Data Science Fellowship (2019-2020), Northwestern Institute on Complex Systems (NICO)
 
 

@@ -10,6 +10,14 @@ Nanayakkara, P., Diakopoulos, N., & Hullman, J. (2020). Anticipatory ethics and 
 
 Nanayakkara, P. & Hullman, J. (2020). Toward better communication of uncertainty in science journalism. Computation + Journalism.
 
+## Public Writing
+Nanayakkara, P. & Hullman, J. (2021). States Are Suing the Census Bureau Over Its Attempts to Make Data More Private. Slate. [[link]](https://slate.com/technology/2021/08/census-bureau-differential-privacy-lawsuit.html)
+
+Nanayakkara, P. (2021). Here’s how AI researchers are thinking about the societal impacts of AI. Technically Social. [[link]] (https://medium.com/technically-social/heres-how-ai-researchers-are-thinking-about-the-societal-impacts-of-ai-b82fc3f29b4d)
+
+## Teaching (as a TA)
+Interactive Information Visualization, Northwestern University, Fall 2021
+
 ### Fellowships
 Advanced Cognitive Science Fellowship (2020-2021), Northwestern University
 

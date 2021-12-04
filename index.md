@@ -3,6 +3,8 @@ Hi! I'm a PhD student in [Technology and Social Behavior](https://tsb.northweste
 I also co-organize HCI+D's [PhD Book Club](https://hci.northwestern.edu/news-events/phd-book-club.html). We read books that help us think critically about technology and media.
 
 ## Publications
+Nanayakkara, P., Bater, J., He, X., Hullman, J., Rogers, J. Visualizing Privacy--Utility Trade-Offs in Differentially Private Data Releases. Forthcoming in Proceedings on Privacy Enhancing Technologies (PoPETS) 2022.
+
 Nanayakkara, P., Hullman, J., Diakopoulos, N. (2021). Unpacking the expressed consequences of AI research in broader impact statements. AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2021. [[pdf]](https://arxiv.org/pdf/2105.04760.pdf) [[blog post]](https://medium.com/technically-social/heres-how-ai-researchers-are-thinking-about-the-societal-impacts-of-ai-b82fc3f29b4d)
 
 ## Workshop Papers and Non-Archival Publications

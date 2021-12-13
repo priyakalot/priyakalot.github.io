@@ -2,6 +2,8 @@ Hi! I'm a PhD student in a dual program in [computer science and communication](
 
 I also co-organize HCI+D's [PhD Book Club](https://hci.northwestern.edu/news-events/phd-book-club.html). We read books that help us think critically about technology and media.
 
+<hr /> 
+ 
 ### Publications
 **Nanayakkara, P.**, Bater, J., He, X., Hullman, J., Rogers, J. (2022). Visualizing Privacy--Utility Trade-Offs in Differentially Private Data Releases. Forthcoming in Proceedings on Privacy Enhancing Technologies (PoPETS).
 

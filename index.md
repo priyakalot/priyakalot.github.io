@@ -2,17 +2,17 @@ Hi! I'm a PhD student in a dual program in [computer science and communication](
 
 I also co-organize HCI+D's [PhD Book Club](https://hci.northwestern.edu/news-events/phd-book-club.html). We read books that help us think critically about technology and media.
 
-## Publications
+### Publications
 Nanayakkara, P., Bater, J., He, X., Hullman, J., Rogers, J. (2022). Visualizing Privacy--Utility Trade-Offs in Differentially Private Data Releases. Forthcoming in Proceedings on Privacy Enhancing Technologies (PoPETS).
 
 Nanayakkara, P., Hullman, J., Diakopoulos, N. (2021). Unpacking the expressed consequences of AI research in broader impact statements. AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES). [[pdf]](https://arxiv.org/pdf/2105.04760.pdf) [[blog post]](https://medium.com/technically-social/heres-how-ai-researchers-are-thinking-about-the-societal-impacts-of-ai-b82fc3f29b4d)
 
-## Workshop Papers and Non-Archival Publications
+### Workshop Papers and Non-Archival Publications
 Nanayakkara, P., Diakopoulos, N., & Hullman, J. (2020). Anticipatory ethics and the role of uncertainty. Navigating the Broader Impacts of AI Research Workshop at NeurIPS 2020. [[pdf]](https://arxiv.org/pdf/2011.13170.pdf)
 
 Nanayakkara, P. & Hullman, J. (2020). Toward better communication of uncertainty in science journalism. Computation + Journalism.
 
-## Public Writing
+### Public Writing
 Nanayakkara, P. & Hullman, J. (2021). States Are Suing the Census Bureau Over Its Attempts to Make Data More Private. Slate. [[link]](https://slate.com/technology/2021/08/census-bureau-differential-privacy-lawsuit.html)
 
 Nanayakkara, P. (2021). Here’s how AI researchers are thinking about the societal impacts of AI. Technically Social. [[link]](https://medium.com/technically-social/heres-how-ai-researchers-are-thinking-about-the-societal-impacts-of-ai-b82fc3f29b4d)

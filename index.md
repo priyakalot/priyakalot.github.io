@@ -19,6 +19,8 @@ I also co-organize HCI+D's [PhD Book Club](https://hci.northwestern.edu/news-eve
 
 **Nanayakkara, P.** (2021). Here’s how AI researchers are thinking about the societal impacts of AI. Technically Social. [[link]](https://medium.com/technically-social/heres-how-ai-researchers-are-thinking-about-the-societal-impacts-of-ai-b82fc3f29b4d)
 
+<hr /> 
+
 ### Teaching (as a TA)
 [CS 333: Interactive Information Visualization](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/333.html), Northwestern University, Fall 2021
 

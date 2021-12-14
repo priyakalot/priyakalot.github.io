@@ -12,9 +12,13 @@ h1,h2,h3,h4,h5,h6 {
  color: #43a1a1;
 }
 
-body {
-    padding-bottom: 100px;
+h1 {
+  font-size: 30px;
 }
+
+// body {
+//     padding-bottom: 100px;
+// }
 
 @media screen and (min-width: 768px) {
  .first {

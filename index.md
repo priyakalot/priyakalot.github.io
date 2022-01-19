@@ -22,7 +22,7 @@ Navigating the Broader Impacts of AI Research Workshop at NeurIPS 2020 | [PDF](h
 
 **Toward better communication of uncertainty in science journalism**\
 _Priyanka Nanayakkara_ and Jessica Hullman\
-Computation + Journalism 2020
+Computation + Journalism 2020 | [PDF](https://cpb-us-w2.wpmucdn.com/sites.northeastern.edu/dist/0/367/files/2020/02/CJ_2020_paper_46.pdf)
 
 ### Public Writing
 [States Are Suing the Census Bureau Over Its Attempts to Make Data More Private](https://slate.com/technology/2021/08/census-bureau-differential-privacy-lawsuit.html). Slate, August 2021. (with Jessica Hullman)

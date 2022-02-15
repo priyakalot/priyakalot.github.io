@@ -13,12 +13,12 @@ Forthcoming in PETS 2022 | [PDF](https://arxiv.org/pdf/2201.05964.pdf) | [demo](
 
 **Unpacking the expressed consequences of AI research in broader impact statements**\
 _Priyanka Nanayakkara_, Jessica Hullman, Nicholas Diakopoulos\
-AIES 2021 | [PDF](https://arxiv.org/pdf/2105.04760.pdf) | [blog post](https://medium.com/technically-social/heres-how-ai-researchers-are-thinking-about-the-societal-impacts-of-ai-b82fc3f29b4d)
+AIES 2021 | [PDF](https://arxiv.org/pdf/2105.04760.pdf) | [blog post](https://medium.com/technically-social/heres-how-ai-researchers-are-thinking-about-the-societal-impacts-of-ai-b82fc3f29b4d) | [video](https://slideslive.com/38956125/unpacking-the-expressed-consequences-of-ai-research-in-broader-impact-statements)
 
 ### Workshop Papers and Non-Archival Publications
 **Anticipatory ethics and the role of uncertainty**\
 _Priyanka Nanayakkara_, Nicholas Diakopoulos, Jessica Hullman\
-Navigating the Broader Impacts of AI Research Workshop at NeurIPS 2020 | [PDF](https://arxiv.org/pdf/2011.13170.pdf)
+Navigating the Broader Impacts of AI Research Workshop at NeurIPS 2020 | [PDF](https://arxiv.org/pdf/2011.13170.pdf) | [video](https://slideslive.com/38941958/anticipatory-ethics-and-the-role-of-uncertainty)
 
 **Toward better communication of uncertainty in science journalism**\
 _Priyanka Nanayakkara_ and Jessica Hullman\

@@ -9,7 +9,7 @@ I also co-organize HCI+D's [PhD Book Club](https://hci.northwestern.edu/news-eve
 ### Publications
 **Visualizing Privacy--Utility Trade-Offs in Differentially Private Data Releases**\
 _Priyanka Nanayakkara_, Johes Bater, Xi He, Jessica Hullman, Jennie Rogers\
-Forthcoming in PETS 2022 | [PDF](https://arxiv.org/pdf/2201.05964.pdf) | [demo](https://priyakalot.github.io/ViP-demo/)
+Forthcoming in PETS 2022 | [PDF](https://arxiv.org/pdf/2201.05964.pdf) | [demo](https://priyakalot.github.io/ViP-demo/) | [video](https://youtu.be/2uNLBFg23VI?t=2229)
 
 **Unpacking the expressed consequences of AI research in broader impact statements**\
 _Priyanka Nanayakkara_, Jessica Hullman, Nicholas Diakopoulos\

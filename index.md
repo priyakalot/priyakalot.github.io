@@ -5,11 +5,15 @@ I also co-organize HCI+D's [PhD Book Club](https://hci.northwestern.edu/news-eve
 <span style="color:red">During Spring 2022, I am a visiting PhD student at Columbia University working under the guidance of Professors [Rachel Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings), [Elissa Redmiles](https://elissaredmiles.com/), and [Gabriel Kaptchuk](https://cs-people.bu.edu/kaptchuk/) on explaining differential privacy to end users.</span>
 
 ---
- 
+### Preprints
+**The worst of both worlds: A comparative analysis of errors in learning from data in psychology and machine learning**\
+Jessica Hullman, Sayash Kapoor, _Priyanka Nanayakkara_, Andrew Gelman, Arvind Narayanan\
+arXiv | [PDF](https://arxiv.org/pdf/2203.06498.pdf)
+
 ### Publications
 **Visualizing Privacy--Utility Trade-Offs in Differentially Private Data Releases**\
 _Priyanka Nanayakkara_, Johes Bater, Xi He, Jessica Hullman, Jennie Rogers\
-Forthcoming in PETS 2022 | [PDF](https://petsymposium.org/2022/files/papers/issue2/popets-2022-0058.pdf) | [demo](https://priyakalot.github.io/ViP-demo/) | [video](https://youtu.be/2uNLBFg23VI?t=2229)
+PETS 2022 | [PDF](https://petsymposium.org/2022/files/papers/issue2/popets-2022-0058.pdf) | [demo](https://priyakalot.github.io/ViP-demo/) | [video](https://youtu.be/2uNLBFg23VI?t=2229)
 
 **Unpacking the expressed consequences of AI research in broader impact statements**\
 _Priyanka Nanayakkara_, Jessica Hullman, Nicholas Diakopoulos\

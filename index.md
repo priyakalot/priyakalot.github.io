@@ -13,7 +13,7 @@ arXiv | [PDF](https://arxiv.org/pdf/2203.06498.pdf)
 ### Publications
 **Visualizing Privacy--Utility Trade-Offs in Differentially Private Data Releases**\
 _Priyanka Nanayakkara_, Johes Bater, Xi He, Jessica Hullman, Jennie Rogers\
-PETS 2022 | [PDF](https://petsymposium.org/2022/files/papers/issue2/popets-2022-0058.pdf) | [demo](https://priyakalot.github.io/ViP-demo/) | [video](https://youtu.be/2uNLBFg23VI?t=2229)
+PETS 2022 | [PDF](https://petsymposium.org/2022/files/papers/issue2/popets-2022-0058.pdf) | [demo](https://priyakalot.github.io/ViP-demo/) | [video](https://youtu.be/2uNLBFg23VI?t=2229) | [blog post](https://medium.com/multiple-views-visualization-research-explained/visualizing-the-accuracy-privacy-trade-off-to-improve-budget-decisions-with-differential-privacy-66fc3efb34a) | [another blog post](https://medium.com/technically-social/visualizing-privacy-trade-offs-for-sensitive-data-af0f57053517)
 
 **Unpacking the expressed consequences of AI research in broader impact statements**\
 _Priyanka Nanayakkara_, Jessica Hullman, Nicholas Diakopoulos\
@@ -29,6 +29,10 @@ _Priyanka Nanayakkara_ and Jessica Hullman\
 Computation + Journalism 2020 | [PDF](https://cpb-us-w2.wpmucdn.com/sites.northeastern.edu/dist/0/367/files/2020/02/CJ_2020_paper_46.pdf)
 
 ### Public Writing
+[Visualizing Privacy Trade-Offs for Sensitive Data](https://medium.com/technically-social/visualizing-privacy-trade-offs-for-sensitive-data-af0f57053517) Technically Social, April 2022.
+
+[Visualizing the accuracy-privacy trade-off to improve budget decisions with differential privacy](https://medium.com/multiple-views-visualization-research-explained/visualizing-the-accuracy-privacy-trade-off-to-improve-budget-decisions-with-differential-privacy-66fc3efb34a) Multiple Views, January 2022.
+
 [States Are Suing the Census Bureau Over Its Attempts to Make Data More Private](https://slate.com/technology/2021/08/census-bureau-differential-privacy-lawsuit.html). Slate, August 2021. (with Jessica Hullman)
 
 [Here’s how AI researchers are thinking about the societal impacts of AI](https://medium.com/technically-social/heres-how-ai-researchers-are-thinking-about-the-societal-impacts-of-ai-b82fc3f29b4d). Technically Social, May 2021.

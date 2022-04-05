@@ -4,6 +4,8 @@ I also co-organize HCI+D's [PhD Book Club](https://hci.northwestern.edu/news-eve
 
 <span style="color:red">During Spring 2022, I am a visiting PhD student at Columbia University working under the guidance of Professors [Rachel Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings), [Elissa Redmiles](https://elissaredmiles.com/), and [Gabriel Kaptchuk](https://cs-people.bu.edu/kaptchuk/) on explaining differential privacy to end users.</span>
 
+<span style="color:red">This coming summer, I will be interning at Microsoft Research under the guidance of Drs. [Jenn Wortman Vaughan](http://www.jennwv.com/) and [Hanna Wallach](http://dirichlet.net/).</span>
+
 ---
 ### Preprints
 **The worst of both worlds: A comparative analysis of errors in learning from data in psychology and machine learning**\
@@ -48,10 +50,6 @@ Advanced Cognitive Science Fellowship (2020-2021), Northwestern University
 Data Science Fellowship (2019-2020), Northwestern Institute on Complex Systems (NICO)
 
 <br/><br/>
-
-
-
-
 
 
 

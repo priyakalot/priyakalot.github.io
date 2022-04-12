@@ -2,7 +2,7 @@ Hi! I'm a PhD candidate in a dual program in [computer science and communication
 
 I also co-organize HCI+D's [PhD Book Club](https://hci.northwestern.edu/news-events/phd-book-club.html). We read books that help us think critically about technology and media.
 
-<span style="color:red">During Spring 2022, I am a visiting PhD student at Columbia University working under the guidance of Professors [Rachel Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings), [Elissa Redmiles](https://elissaredmiles.com/), and [Gabriel Kaptchuk](https://cs-people.bu.edu/kaptchuk/) on explaining differential privacy to end users.</span>
+<span style="color:red">During Spring 2022, I am a visiting PhD student at Columbia University working under the guidance of Professors [Rachel Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings), [Elissa Redmiles](https://elissaredmiles.com/), and [Gabriel Kaptchuk](https://cs-people.bu.edu/kaptchuk/) on effectively communicating differential privacy guarantees to end users.</span>
 
 <span style="color:red">This coming summer, I will be interning at Microsoft Research under the guidance of Drs. [Jenn Wortman Vaughan](http://www.jennwv.com/) and [Hanna Wallach](http://dirichlet.net/).</span>
 

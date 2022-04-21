@@ -7,12 +7,16 @@ I also co-organize HCI+D's [PhD Book Club](https://hci.northwestern.edu/news-eve
 <span style="color:red">This coming summer, I will be interning at Microsoft Research under the guidance of Drs. [Jenn Wortman Vaughan](http://www.jennwv.com/) and [Hanna Wallach](http://dirichlet.net/).</span>
 
 ---
-### Preprints
+### Publications
+
+**Examining Responsibility and Deliberation in AI Impact Statements and Ethics Reviews**\
+David Liu*, _Priyanka Nanayakkara_*, Sarah Sakha, Grace Abuhamad, Su Lin Blodgett, Nicholas Diakopoulos, Jessica Hullman, Tina Eliassi-Rad\
+To appear at AIES 2022
+
 **The worst of both worlds: A comparative analysis of errors in learning from data in psychology and machine learning**\
 Jessica Hullman, Sayash Kapoor, _Priyanka Nanayakkara_, Andrew Gelman, Arvind Narayanan\
-arXiv | [PDF](https://arxiv.org/pdf/2203.06498.pdf)
+To appear at AIES 2022 | [preprint](https://arxiv.org/pdf/2203.06498.pdf)
 
-### Publications
 **Visualizing Privacy--Utility Trade-Offs in Differentially Private Data Releases**\
 _Priyanka Nanayakkara_, Johes Bater, Xi He, Jessica Hullman, Jennie Rogers\
 PETS 2022 | [PDF](https://petsymposium.org/2022/files/papers/issue2/popets-2022-0058.pdf) | [demo](https://priyakalot.github.io/ViP-demo/) | [video](https://youtu.be/2uNLBFg23VI?t=2229) | [blog post](https://medium.com/multiple-views-visualization-research-explained/visualizing-the-accuracy-privacy-trade-off-to-improve-budget-decisions-with-differential-privacy-66fc3efb34a) | [another blog post](https://medium.com/technically-social/visualizing-privacy-trade-offs-for-sensitive-data-af0f57053517)
@@ -21,6 +25,7 @@ PETS 2022 | [PDF](https://petsymposium.org/2022/files/papers/issue2/popets-2022-
 _Priyanka Nanayakkara_, Jessica Hullman, Nicholas Diakopoulos\
 AIES 2021 | [PDF](https://arxiv.org/pdf/2105.04760.pdf) | [blog post](https://medium.com/technically-social/heres-how-ai-researchers-are-thinking-about-the-societal-impacts-of-ai-b82fc3f29b4d) | [video](https://slideslive.com/38956125/unpacking-the-expressed-consequences-of-ai-research-in-broader-impact-statements)
 
+*equal contribution
 ### Workshop Papers and Non-Archival Publications
 **Anticipatory ethics and the role of uncertainty**\
 _Priyanka Nanayakkara_, Nicholas Diakopoulos, Jessica Hullman\

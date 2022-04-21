@@ -10,7 +10,7 @@ I also co-organize HCI+D's [PhD Book Club](https://hci.northwestern.edu/news-eve
 ### Publications
 
 **Examining Responsibility and Deliberation in AI Impact Statements and Ethics Reviews**\
-David Liu*, _Priyanka Nanayakkara*_, Sarah Sakha, Grace Abuhamad, Su Lin Blodgett, Nicholas Diakopoulos, Jessica Hullman, Tina Eliassi-Rad\
+David Liu*, _Priyanka Nanayakkara\*_, Sarah Sakha, Grace Abuhamad, Su Lin Blodgett, Nicholas Diakopoulos, Jessica Hullman, Tina Eliassi-Rad\
 To appear at AIES 2022
 
 **The worst of both worlds: A comparative analysis of errors in learning from data in psychology and machine learning**\

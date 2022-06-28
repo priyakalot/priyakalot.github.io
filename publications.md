@@ -22,7 +22,7 @@ AIES 2021 | [PDF](https://arxiv.org/pdf/2105.04760.pdf) | [blog post](https://me
 
 ### Workshop Papers and Non-Archival Publications
 **Improving Communication with End Users About Differential Privacy**\
-_Priyanka Nanayakkara_\*, Mary Anne Smart\*, Rachel Cummings<sup>**</sup>, Gabriel Kaptchuk<sup>**</sup>, Elissa M. Redmiles<sup>**</sup> (*=equal contribution; **=equal advising)\
+_Priyanka Nanayakkara_\*, Mary Anne Smart\*, Rachel Cummings<sup>**</sup>, Gabriel Kaptchuk<sup>**</sup>, Elissa M. Redmiles**(*=equal contribution; **=equal advising)\
 Theory and Practice of Differential Privacy (TPDP) 2022
 
 **Anticipatory ethics and the role of uncertainty**\

@@ -6,15 +6,16 @@ layout: default
 
 **Examining Responsibility and Deliberation in AI Impact Statements and Ethics Reviews**\
 David Liu\*, _Priyanka Nanayakkara\*_, Sarah Sakha, Grace Abuhamad, Su Lin Blodgett, Nicholas Diakopoulos, Jessica Hullman, Tina Eliassi-Rad (*=equal contribution)\
-To appear at AIES 2022
+AIES 2022 | [PDF](https://eliassi.org/papers/davidliu-aies2022.pdf)
 
 **The worst of both worlds: A comparative analysis of errors in learning from data in psychology and machine learning**\
 Jessica Hullman, Sayash Kapoor, _Priyanka Nanayakkara_, Andrew Gelman, Arvind Narayanan\
-To appear at AIES 2022 | [preprint](https://arxiv.org/pdf/2203.06498.pdf)
+AIES 2022 | [preprint](https://arxiv.org/pdf/2203.06498.pdf)
 
 **Visualizing Privacy--Utility Trade-Offs in Differentially Private Data Releases**\
 _Priyanka Nanayakkara_, Johes Bater, Xi He, Jessica Hullman, Jennie Rogers\
-PETS 2022 | [PDF](https://petsymposium.org/2022/files/papers/issue2/popets-2022-0058.pdf) | [demo](https://priyakalot.github.io/ViP-demo/) | [video](https://youtu.be/2uNLBFg23VI?t=2229) | [blog post](https://medium.com/multiple-views-visualization-research-explained/visualizing-the-accuracy-privacy-trade-off-to-improve-budget-decisions-with-differential-privacy-66fc3efb34a) | [another blog post](https://medium.com/technically-social/visualizing-privacy-trade-offs-for-sensitive-data-af0f57053517)
+PETS 2022 | [PDF](https://petsymposium.org/2022/files/papers/issue2/popets-2022-0058.pdf) | [demo](https://priyakalot.github.io/ViP-demo/) | [video](https://youtu.be/2uNLBFg23VI?t=2229) | [blog post](https://medium.com/multiple-views-visualization-research-explained/visualizing-the-accuracy-privacy-trade-off-to-improve-budget-decisions-with-differential-privacy-66fc3efb34a) | [another blog post](https://medium.com/technically-social/visualizing-privacy-trade-offs-for-sensitive-data-af0f57053517)\
+Spotlight talk at TPDP 2022
 
 **Unpacking the expressed consequences of AI research in broader impact statements**\
 _Priyanka Nanayakkara_, Jessica Hullman, Nicholas Diakopoulos\
@@ -23,7 +24,7 @@ AIES 2021 | [PDF](https://arxiv.org/pdf/2105.04760.pdf) | [blog post](https://me
 ### Workshop Papers and Non-Archival Publications
 **Improving Communication with End Users About Differential Privacy**\
 _Priyanka Nanayakkara_\*, Mary Anne Smart\*, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa M. Redmiles<sup>\*\*</sup>(*=equal contribution; \*\*=equal advising)\
-Theory and Practice of Differential Privacy (TPDP) 2022
+TPDP 2022
 
 **Anticipatory ethics and the role of uncertainty**\
 _Priyanka Nanayakkara_, Nicholas Diakopoulos, Jessica Hullman\

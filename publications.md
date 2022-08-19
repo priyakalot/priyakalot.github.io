@@ -4,6 +4,10 @@ layout: default
 
 ### Publications
 
+**What’s Driving Conflicts in Debates around Differential Privacy for the U.S. Census**\
+_Priyanka Nanayakkara_ and Jessica Hullman\
+Accepted to IEEE S\&P Magazine
+
 **Examining Responsibility and Deliberation in AI Impact Statements and Ethics Reviews**\
 David Liu\*, _Priyanka Nanayakkara\*_, Sarah Sakha, Grace Abuhamad, Su Lin Blodgett, Nicholas Diakopoulos, Jessica Hullman, Tina Eliassi-Rad (*=equal contribution)\
 AIES 2022 | [PDF](https://eliassi.org/papers/davidliu-aies2022.pdf)

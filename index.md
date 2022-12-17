@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi! I'm a PhD candidate in [computer science and communication](https://tsb.northwestern.edu/ "https://tsb.northwestern.edu/") at Northwestern University, where I'm part of the [Midwest Uncertainty Collective](https://mucollective.northwestern.edu/) and advised by Professor [Jessica Hullman](http://users.eecs.northwestern.edu/~jhullman/). My research is in human-computer interaction, privacy, and visualization.
+Hi! I'm a PhD candidate in [computer science and communication](https://tsb.northwestern.edu/ "https://tsb.northwestern.edu/") at Northwestern University, where I'm part of the [Midwest Uncertainty Collective](https://mucollective.northwestern.edu/) and advised by Professor [Jessica Hullman](http://users.eecs.northwestern.edu/~jhullman/). My research is in <mark>human-computer interaction</mark>, <mark>privacy</mark>, and <mark>visualization</mark>.
 
 <mark>I am interested in creating tools that help people reason about complex algorithms.</mark> This often involves building interfaces or designing abstractions that map algorithmic components to real-world outcomes. Specifically, I've spent much of the past few years creating tools that support data curators and end users (people contributing their data) reason about differential privacy, and have studied sources of conflicts in debates around the U.S. Census Bureau's use of differential privacy.
 

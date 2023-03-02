@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+*=equal contribution; \*\*=equal advising
+
+### Preprints
+**What Are the Chances? Explaining the Epsilon Parameter in Differential Privacy**\
+_Priyanka Nanayakkara_, Mary Anne Smart, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa Redmiles<sup>\*\*</sup>\
+[PDF](https://arxiv.org/pdf/2303.00738.pdf)
 
 ### Publications
 
@@ -27,8 +33,8 @@ AIES 2021 | [PDF](https://arxiv.org/pdf/2105.04760.pdf) | [blog post](https://me
 
 ### Workshop Papers and Non-Archival Publications
 **Improving Communication with End Users About Differential Privacy**\
-_Priyanka Nanayakkara_\*, Mary Anne Smart\*, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa M. Redmiles<sup>\*\*</sup>(*=equal contribution; \*\*=equal advising)\
-TPDP 2022
+_Priyanka Nanayakkara_\*, Mary Anne Smart\*, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa M. Redmiles<sup>\*\*</sup>\
+TPDP 2022, CI Symposium 2022
 
 **Anticipatory ethics and the role of uncertainty**\
 _Priyanka Nanayakkara_, Nicholas Diakopoulos, Jessica Hullman\

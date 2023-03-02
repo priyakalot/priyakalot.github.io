@@ -15,7 +15,7 @@ _Priyanka Nanayakkara_ and Jessica Hullman\
 IEEE S&P Magazine | [PDF](https://priyakalot.github.io/papers/Whats_Driving_Conflicts_Around_Differential_Privacy_for_the_U.S._Census.pdf)
 
 **Examining Responsibility and Deliberation in AI Impact Statements and Ethics Reviews**\
-David Liu\*, _Priyanka Nanayakkara\*_, Sarah Sakha, Grace Abuhamad, Su Lin Blodgett, Nicholas Diakopoulos, Jessica Hullman, Tina Eliassi-Rad (*=equal contribution)\
+David Liu\*, _Priyanka Nanayakkara\*_, Sarah Sakha, Grace Abuhamad, Su Lin Blodgett, Nicholas Diakopoulos, Jessica Hullman, Tina Eliassi-Rad\
 AIES 2022 | [PDF](https://eliassi.org/papers/davidliu-aies2022.pdf)
 
 **The worst of both worlds: A comparative analysis of errors in learning from data in psychology and machine learning**\

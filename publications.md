@@ -32,6 +32,14 @@ _Priyanka Nanayakkara_, Jessica Hullman, Nicholas Diakopoulos\
 AIES 2021 | [PDF](https://arxiv.org/pdf/2105.04760.pdf) | [blog post](https://medium.com/technically-social/heres-how-ai-researchers-are-thinking-about-the-societal-impacts-of-ai-b82fc3f29b4d) | [video](https://slideslive.com/38956125/unpacking-the-expressed-consequences-of-ai-research-in-broader-impact-statements)
 
 ### Workshop Papers and Non-Archival Publications
+**Whose Policy? Privacy Challenges of Decentralized Platforms**\
+Sohyeon Hwang, _Priyanka Nanayakkara_, Yan Shvartzshnaider\
+CHI 2023 Design Policy Workshop
+
+**Improving Education on Differential Privacy Protections**
+Mary Anne Smart\*, _Priyanka Nanayakkara_\*, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa Redmiles<sup>\*\*</sup>\
+CHI 2023 Privacy Interventions and Education (PIE) Workshop
+
 **Improving Communication with End Users About Differential Privacy**\
 _Priyanka Nanayakkara_\*, Mary Anne Smart\*, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa M. Redmiles<sup>\*\*</sup>\
 TPDP 2022, CI Symposium 2022

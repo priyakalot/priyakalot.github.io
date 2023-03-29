@@ -23,7 +23,7 @@ AIES 2022 | [PDF](https://eliassi.org/papers/davidliu-aies2022.pdf)
 
 **The worst of both worlds: A comparative analysis of errors in learning from data in psychology and machine learning**\
 Jessica Hullman, Sayash Kapoor, _Priyanka Nanayakkara_, Andrew Gelman, Arvind Narayanan\
-AIES 2022 | [preprint](https://arxiv.org/pdf/2203.06498.pdf)
+AIES 2022 | [PDF](https://arxiv.org/pdf/2203.06498.pdf)
 
 **Visualizing Privacy--Utility Trade-Offs in Differentially Private Data Releases**\
 _Priyanka Nanayakkara_, Johes Bater, Xi He, Jessica Hullman, Jennie Rogers\

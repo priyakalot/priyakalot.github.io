@@ -7,7 +7,7 @@ layout: default
 #### Preprints
 **What Are the Chances? Explaining the Epsilon Parameter in Differential Privacy**\
 _Priyanka Nanayakkara_, Mary Anne Smart, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa Redmiles<sup>\*\*</sup>\
-[PDF](https://arxiv.org/pdf/2303.00738.pdf)
+arXiv | [PDF](https://arxiv.org/pdf/2303.00738.pdf)
 
 <hr>
 

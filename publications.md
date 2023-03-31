@@ -39,7 +39,7 @@ AIES 2021 | [PDF](https://arxiv.org/pdf/2105.04760.pdf) | [blog post](https://me
 #### Peer-Reviewed Workshop Papers and Non-Archival Publications
 **Whose Policy? Privacy Challenges of Decentralized Platforms**\
 Sohyeon Hwang, _Priyanka Nanayakkara_, Yan Shvartzshnaider\
-CHI 2023 Design Policy Workshop
+CHI 2023 Design Policy Workshop | [PDF](https://www.sohyeonhwang.com/docs/CHI2023_Workshop_DesignPolicy.pdf)
 
 **Improving Education on Differential Privacy Protections**\
 Mary Anne Smart\*, _Priyanka Nanayakkara_\*, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa Redmiles<sup>\*\*</sup>\

@@ -4,14 +4,13 @@ layout: default
 ### Publications
 *=equal contribution; \*\*=equal advising
 
-#### Preprints
-**What Are the Chances? Explaining the Epsilon Parameter in Differential Privacy**\
-_Priyanka Nanayakkara_, Mary Anne Smart, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa Redmiles<sup>\*\*</sup>\
-arXiv | [PDF](https://arxiv.org/pdf/2303.00738.pdf)
-
-<hr>
+<!-- #### Preprints -->
+<!-- <hr> -->
 
 #### Peer-Reviewed Publications
+**What Are the Chances? Explaining the Epsilon Parameter in Differential Privacy**\
+_Priyanka Nanayakkara_, Mary Anne Smart, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa Redmiles<sup>\*\*</sup>\
+To appear in USENIX Security Symposium 2023 | [preprint](https://arxiv.org/pdf/2303.00738.pdf)
 
 **What’s Driving Conflicts in Debates around Differential Privacy for the U.S. Census**\
 _Priyanka Nanayakkara_ and Jessica Hullman\

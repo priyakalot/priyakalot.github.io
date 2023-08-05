@@ -7,7 +7,6 @@
 html {
     height: 100%;
     margin: 0;
-    padding-bottom: 200px;
 }
 body {
     margin: 0;
@@ -91,10 +90,12 @@ mark{
 .container {
     max-width: $max-width;
     margin: auto;
-    padding-bottom: 200px;
 }
 .wrapper {
     min-height: 100%;
+}
+.content{
+    padding-bottom: 200px;
 }
 
 /* Institute Image */

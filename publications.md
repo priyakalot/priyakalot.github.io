@@ -27,7 +27,7 @@ AIES 2022 | [PDF](https://arxiv.org/pdf/2203.06498.pdf)
 **Visualizing Privacy--Utility Trade-Offs in Differentially Private Data Releases**\
 _Priyanka Nanayakkara_, Johes Bater, Xi He, Jessica Hullman, Jennie Rogers\
 PETS 2022 | [PDF](https://petsymposium.org/2022/files/papers/issue2/popets-2022-0058.pdf) | [demo](https://priyakalot.github.io/ViP-demo/) | [video](https://youtu.be/2uNLBFg23VI?t=2229) | [blog post](https://medium.com/multiple-views-visualization-research-explained/visualizing-the-accuracy-privacy-trade-off-to-improve-budget-decisions-with-differential-privacy-66fc3efb34a) | [another blog post](https://medium.com/technically-social/visualizing-privacy-trade-offs-for-sensitive-data-af0f57053517)\
-Spotlight talk at TPDP 2022
+Spotlight talk at TPDP @ ICML 2022 | [video](https://icml.cc/virtual/2022/20846)
 
 **Unpacking the expressed consequences of AI research in broader impact statements**\
 _Priyanka Nanayakkara_, Jessica Hullman, Nicholas Diakopoulos\

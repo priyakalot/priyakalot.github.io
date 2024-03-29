@@ -24,3 +24,5 @@ nav:
    link: "writing"
  - name: "Teaching"
    link: "teaching"
+ - name: "Talks"
+   link: "talks"

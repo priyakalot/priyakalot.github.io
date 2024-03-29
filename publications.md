@@ -4,13 +4,21 @@ layout: default
 ### Publications
 *=equal contribution; \*\*=equal advising
 
-<!-- #### Preprints -->
-<!-- <hr> -->
+#### Preprints
+**REFORMS: Reporting Standards for Machine Learning Based Science**\
+Sayash Kapoor, Emily Cantrell, Kenny Peng, Thanh Hien Pham, Christopher A. Bail, Odd Erik Gundersen, Jake M. Hofman, Jessica Hullman, Michael A. Lones, Momin M. Malik, _Priyanka Nanayakkara_, Russell A. Poldrack, Inioluwa Deborah Raji, Michael Roberts, Matthew J. Salganik, Marta Serra-Garcia, Brandon M. Stewart, Gilles Vandewiele, Arvind Narayanan\
+[PDF](https://arxiv.org/pdf/2308.07832.pdf)
+<hr>
 
 #### Peer-Reviewed Publications
+**Measure-Observe-Remeasure: An Interactive Paradigm for Differentially-Private Exploratory Analysis**\
+_Priyanka Nanayakkara_, Hyeok Kim, Yifan Wu, Ali Sarvghad, Narges Mahyar, Gerome Miklau, Jessica Hullman\
+To appear in IEEE S&P
+
 **What Are the Chances? Explaining the Epsilon Parameter in Differential Privacy**\
 _Priyanka Nanayakkara_, Mary Anne Smart, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa Redmiles<sup>\*\*</sup>\
-USENIX Security Symposium 2023 | [PDF](https://www.usenix.org/system/files/usenixsecurity23-nanayakkara.pdf)
+USENIX Security Symposium 2023 | [PDF](https://www.usenix.org/system/files/usenixsecurity23-nanayakkara.pdf)\
+Spotlight talk at TPDP 2023 | [video](https://www.youtube.com/watch?v=8Cc0u606VxA)
 
 **What’s Driving Conflicts in Debates around Differential Privacy for the U.S. Census**\
 _Priyanka Nanayakkara_ and Jessica Hullman\

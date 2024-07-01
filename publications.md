@@ -7,7 +7,7 @@ layout: default
 #### Peer-Reviewed Publications
 **Measure-Observe-Remeasure: An Interactive Paradigm for Differentially-Private Exploratory Analysis**\
 _Priyanka Nanayakkara_, Hyeok Kim, Yifan Wu, Ali Sarvghad, Narges Mahyar, Gerome Miklau, Jessica Hullman\
-IEEE S&P 2024 | [PDF](https://arxiv.org/pdf/2406.01964)
+IEEE S&P 2024 | [PDF](https://arxiv.org/pdf/2406.01964) | [video](https://www.youtube.com/watch?v=srk7GXcKre4)
 
 **REFORMS: Consensus-based Recommendations for Machine-learning-based Science**\
 Sayash Kapoor, Emily Cantrell, Kenny Peng, Thanh Hien Pham, Christopher A. Bail, Odd Erik Gundersen, Jake M. Hofman, Jessica Hullman, Michael A. Lones, Momin M. Malik, _Priyanka Nanayakkara_, Russell A. Poldrack, Inioluwa Deborah Raji, Michael Roberts, Matthew J. Salganik, Marta Serra-Garcia, Brandon M. Stewart, Gilles Vandewiele, Arvind Narayanan\

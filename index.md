@@ -10,7 +10,7 @@ Rapidly increasing amounts of data can power extraordinary progress, but can als
 
 During my PhD, I have been supported by an Advanced Cognitive Science Fellowship and a Data Science Fellowship. I have also been a visiting PhD student at Columbia University, advised by Professors <a href="https://rachelcummings.com/" target="_blank">Rachel Cummings</a>, <a href="https://elissaredmiles.com/" target="_blank">Elissa M. Redmiles</a>, and <a href="https://cs-people.bu.edu/kaptchuk/" target="_blank">Gabriel Kaptchuk</a>, and a visiting graduate student in the <a href="https://simons.berkeley.edu/programs/datadriven2022" target="_blank">Data-Driven Decision Processes</a> program at Simons Institute, UC Berkeley. I've also interned at Microsoft Research, where I was mentored by Drs. <a href="http://www.jennwv.com/" target="_blank">Jenn Wortman Vaughan</a> and <a href="http://dirichlet.net/" target="_blank">Hanna Wallach</a>.
 
-I co-founded and co-organize HCI+D's <a href="https://hci.northwestern.edu/news-events/phd-book-club.html" target="_blank">PhD Book Club</a>. During the academic year, we read books that help us think critically about technology and media. Please reach out if interested in joining!
+A while back, I co-founded HCI+D's <a href="https://hci.northwestern.edu/news-events/phd-book-club.html" target="_blank">PhD Book Club</a>. It's a wonderful group that critically examines media and techology; please reach out to one of the current organizers if you're interested in joining!
 
 <hr>
 <p align="center"><i class="fas fa-envelope"></i> priyankan [at] u.northwestern.edu <br/>

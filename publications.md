@@ -41,30 +41,30 @@ AIES 2021 | [PDF](https://arxiv.org/pdf/2105.04760.pdf) | [blog post](https://me
 
 <hr>
 
-#### Peer-Reviewed Workshop Papers and Non-Archival Publications
-**Measure-Observe-(Re)measure: An Interactive Paradigm for Differentially-Private Exploratory Analysis**\
+#### Selected Peer-Reviewed Workshop Papers and Non-Archival Publications
+<!--**Measure-Observe-(Re)measure: An Interactive Paradigm for Differentially-Private Exploratory Analysis**\
 _Priyanka Nanayakkara_, Hyeok Kim, Yifan Wu, Ali Sarvghad, Narges Mahyar, Gerome Miklau, Jessica Hullman\
-TPDP 2023
+TPDP 2023-->
 
 **Models Matter: Setting Accurate Privacy Expectations for Local and Central Differential Privacy**\
 Mary Anne Smart, _Priyanka Nanayakkara_, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa Redmiles<sup>\*\*</sup>\
 TPDP 2023
 
-**What Are the Chances? Explaining the Epsilon Parameter in Differential Privacy**\
+<!--**What Are the Chances? Explaining the Epsilon Parameter in Differential Privacy**\
  _Priyanka Nanayakkara_, Mary Anne Smart, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa Redmiles<sup>\*\*</sup>\
-TPDP 2023
+TPDP 2023-->
 
 **Whose Policy? Privacy Challenges of Decentralized Platforms**\
 Sohyeon Hwang, _Priyanka Nanayakkara_, Yan Shvartzshnaider\
 CHI 2023 Design Policy Workshop | [PDF](https://www.sohyeonhwang.com/docs/CHI2023_Workshop_DesignPolicy.pdf)
 
-**Improving Education on Differential Privacy Protections**\
+<!--**Improving Education on Differential Privacy Protections**\
 Mary Anne Smart\*, _Priyanka Nanayakkara_\*, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa Redmiles<sup>\*\*</sup>\
-CHI 2023 Privacy Interventions and Education (PIE) Workshop
+CHI 2023 Privacy Interventions and Education (PIE) Workshop-->
 
-**Improving Communication with End Users About Differential Privacy**\
+<!--**Improving Communication with End Users About Differential Privacy**\
 _Priyanka Nanayakkara_\*, Mary Anne Smart\*, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa M. Redmiles<sup>\*\*</sup>\
-TPDP 2022, CI Symposium 2022
+TPDP 2022, CI Symposium 2022-->
 
 **Anticipatory ethics and the role of uncertainty**\
 _Priyanka Nanayakkara_, Nicholas Diakopoulos, Jessica Hullman\

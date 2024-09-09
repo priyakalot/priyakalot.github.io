@@ -10,7 +10,7 @@ During my PhD, I was supported by an Advanced Cognitive Science Fellowship and a
 A while back, I co-founded HCI+D's <a href="https://hci.northwestern.edu/news-events/phd-book-club.html" target="_blank">PhD Book Club</a>. It's a wonderful group that critically examines media and techology; please reach out to one of the current organizers if you're interested in joining!
 
 <hr>
-<p align="center"><i class="fas fa-envelope"></i> priyankan [at] u.northwestern.edu <br/>
+<p align="center"><i class="fas fa-envelope"></i> priyankan [at] g.harvard.edu <br/>
 <i class="fab fa-mastodon"></i> <a href="https://hci.social/@priyakalot" target="_blank">@priyakalot</a> <br/>
 <i class="fab fa-twitter"></i> <a href="https://twitter.com/priyakalot" target="_blank">@priyakalot</a></p>
 

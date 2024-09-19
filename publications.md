@@ -4,6 +4,11 @@ layout: default
 ### Publications
 *=equal contribution; \*\*=equal advising
 
+#### Preprints
+**Models Matter: Setting Accurate Privacy Expectations for Local and Central Differential Privacy**\
+Mary Anne Smart, _Priyanka Nanayakkara_, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa Redmiles<sup>\*\*</sup>\
+[PDF](https://arxiv.org/pdf/2408.08475)
+
 #### Peer-Reviewed Publications
 **Measure-Observe-Remeasure: An Interactive Paradigm for Differentially-Private Exploratory Analysis**\
 _Priyanka Nanayakkara_, Hyeok Kim, Yifan Wu, Ali Sarvghad, Narges Mahyar, Gerome Miklau, Jessica Hullman\
@@ -41,14 +46,20 @@ AIES 2021 | [PDF](https://arxiv.org/pdf/2105.04760.pdf) | [blog post](https://me
 
 <hr>
 
+#### Invited Papers
+_Priyanka Nanayakkara_ and Jessica Hullman\
+Policy Insights from the Behavioral and Brain Sciences 2024 | [PDF](https://arxiv.org/pdf/2409.11680)
+
+<hr>
+
 #### Selected Peer-Reviewed Workshop Papers and Non-Archival Publications
 <!--**Measure-Observe-(Re)measure: An Interactive Paradigm for Differentially-Private Exploratory Analysis**\
 _Priyanka Nanayakkara_, Hyeok Kim, Yifan Wu, Ali Sarvghad, Narges Mahyar, Gerome Miklau, Jessica Hullman\
 TPDP 2023-->
 
-**Models Matter: Setting Accurate Privacy Expectations for Local and Central Differential Privacy**\
+<!--**Models Matter: Setting Accurate Privacy Expectations for Local and Central Differential Privacy**\
 Mary Anne Smart, _Priyanka Nanayakkara_, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa Redmiles<sup>\*\*</sup>\
-TPDP 2023
+TPDP 2023-->
 
 <!--**What Are the Chances? Explaining the Epsilon Parameter in Differential Privacy**\
  _Priyanka Nanayakkara_, Mary Anne Smart, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa Redmiles<sup>\*\*</sup>\

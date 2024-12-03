@@ -5,7 +5,7 @@ Welcome! I am a postdoctoral fellow in computer science at Harvard University, a
 
 I received a joint PhD in <a href="https://tsb.northwestern.edu/" target="_blank">computer science and communication</a> from Northwestern University, where I was part of the <a href="https://mucollective.northwestern.edu/" target="_blank">Midwest Uncertainty Collective</a> and advised by Professor <a href="http://users.eecs.northwestern.edu/~jhullman/" target="_blank">Jessica Hullman</a>. During my PhD, I was a visiting researcher at Columbia University, a visiting graduate student at <a href="https://simons.berkeley.edu/programs/datadriven2022" target="_blank">Simons Institute, UC Berkeley</a>, and a research intern at Microsoft Research in <a href="https://www.microsoft.com/en-us/research/theme/fate/" target="_blank">FATE</a> and <a href="https://socialmediacollective.org/" target="_blank">SMC</a>.
 
-#### News
+### News
 * Jan 25 - I'm giving an invited talk at the <a href="https://encore.ucsd.edu/privacy-workshop/" target="_blank">EnCORE Workshop on Defining Holistic Private Data Science for Practice</a> at UCSD.
 * Dec 24 - I'm giving an invited talk at the Harvard CS Colloquium.
 * Dec 24 - We (w/ danah boyd, Rachel Cummings, Gabriel Kaptchuk, Sean Kross, Jayshree Sarathy, Elissa Redmiles) are looking for new and/or visiting PhD students to join us in working on application-focused statistical research on differential privacy! More info <a href="https://bit.ly/participatoryDPStudent24" target="_blank">here</a>. Please reach out with questions!

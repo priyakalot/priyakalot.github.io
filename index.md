@@ -8,6 +8,7 @@ I received a joint PhD in <a href="https://tsb.northwestern.edu/" target="_blank
 I can be reached at **priyankan [at] g.harvard.edu**.
 
 ### News
+* Jan 25 - I'll be reviewing for FAccT 2025. Looking forward to reading!
 * Jan 25 - Our (w/ Jayshree Sarathy, Rachel Cummings, Gabriel Kaptchuk, Elissa Redmiles) workshop submission on eliciting privacy preferences from data subjects has been accepted to the AAAI Workshop on Privacy-Preserving Artificial Intelligence!
 * Jan 25 - I'm giving an invited talk at the <a href="https://encore.ucsd.edu/privacy-workshop/" target="_blank">EnCORE Workshop on Defining Holistic Private Data Science for Practice</a> at UCSD.
 * Dec 24 - I'm giving an invited talk at the Harvard CS Colloquium.

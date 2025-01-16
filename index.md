@@ -8,10 +8,12 @@ I received a joint PhD in <a href="https://tsb.northwestern.edu/" target="_blank
 I can be reached at **priyankan [at] g.harvard.edu**.
 
 ### News
+* Jan 25 - Our workshop submission on eliciting privacy preferences from data subjects has been accepted to the AAAI Workshop on Privacy-Preserving Artificial Intelligence!
 * Jan 25 - I'm giving an invited talk at the <a href="https://encore.ucsd.edu/privacy-workshop/" target="_blank">EnCORE Workshop on Defining Holistic Private Data Science for Practice</a> at UCSD.
 * Dec 24 - I'm giving an invited talk at the Harvard CS Colloquium.
 * Dec 24 - We (w/ danah boyd, Rachel Cummings, Gabriel Kaptchuk, Sean Kross, Elissa Redmiles, Jayshree Sarathy) are looking for new and/or visiting PhD students to join us in working on application-focused statistical research on differential privacy! More info <a href="https://bit.ly/participatoryDPStudent24" target="_blank">here</a>. Please reach out with questions!
 * Nov 24 - I gave an invited talk at the <a href="https://bostondataprivacy.github.io/privacy-day.html" target="_blank">Charles River Privacy Day</a> about the value of interfaces for making differential privacy usable for data curators and analysts.
+* Nov 24 - I presented to the Policy Red Teaming Working Group (led by Sarah Radway) at the Berkman Klein Center for Internet & Society on "Policy Red Teaming for Differential Privacy."
 * Oct 24 - I gave an invited talk at CMU's Privacy Topics Seminar (led by Sarah Scheffler).
 * Sept 24 - New paper w/ Jessica Hullman titled <a href="https://arxiv.org/abs/2409.11680" target="_blank">_What to Consider When Considering Differential Privacy for Policy_</a> published in _Policy Insights from the Brain and Behavioral Sciences (PIBBS)_. We offer guidance to policymakers deciding whether to use differential privacy for a given context.
 * Sept 24 - I attended and spoke at the new <a href="https://privacypublicpolicy-conference.github.io/website/" target="_blank">Privacy and Public Policy Conference</a> at Georgetown University about how we might elicit privacy-accuracy preferences from data subjects. I also gave an invited talk at Georgetown's Privacy & Crypto group.

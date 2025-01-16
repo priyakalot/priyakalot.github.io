@@ -9,7 +9,7 @@ I can be reached at **priyankan [at] g.harvard.edu**.
 
 ### News
 * Jan 25 - I'll be reviewing for FAccT 2025. Looking forward to reading!
-* Jan 25 - Our (w/ Jayshree Sarathy, Rachel Cummings, Gabriel Kaptchuk, Elissa Redmiles) workshop submission on eliciting privacy preferences from data subjects has been accepted to the AAAI Workshop on Privacy-Preserving Artificial Intelligence!
+* Jan 25 - Our (w/ Jayshree Sarathy, Mary Anne Smart, Rachel Cummings, Gabriel Kaptchuk, Elissa Redmiles) workshop submission on eliciting privacy preferences from data subjects has been accepted to the AAAI Workshop on Privacy-Preserving Artificial Intelligence!
 * Jan 25 - I'm giving an invited talk at the <a href="https://encore.ucsd.edu/privacy-workshop/" target="_blank">EnCORE Workshop on Defining Holistic Private Data Science for Practice</a> at UCSD.
 * Dec 24 - I'm giving an invited talk at the Harvard CS Colloquium.
 * Dec 24 - We (w/ danah boyd, Rachel Cummings, Gabriel Kaptchuk, Sean Kross, Elissa Redmiles, Jayshree Sarathy) are looking for new and/or visiting PhD students to join us in working on application-focused statistical research on differential privacy! More info <a href="https://bit.ly/participatoryDPStudent24" target="_blank">here</a>. Please reach out with questions!

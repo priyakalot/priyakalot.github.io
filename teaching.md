@@ -3,6 +3,9 @@ layout: default
 ---
 ### Teaching
 
+#### Instructor
+[CS 2080: Applied Privacy for Data Science](https://opendp.github.io/cs208/spring2025/), Harvard University, Spring 2025 (co-taught with Salil Vadhan and James Honaker)
+
 #### Teaching Assistant
 [CS 312/412: Data Privacy](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/312-412.html), Northwestern University, Spring 2024
 

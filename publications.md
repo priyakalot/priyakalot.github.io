@@ -5,6 +5,10 @@ layout: default
 *=equal contribution; \*\*=equal advising
 
 #### Preprints
+**Trust and Friction: Negotiating How Information Flows Through Decentralized Social Media**\
+Sohyeon Hwang, _Priyanka Nanayakkara_, Yan Shvartzshnaider\
+Conditionally accepted to CSCW | [PDF](https://arxiv.org/pdf/2503.02150)
+
 **Models Matter: Setting Accurate Privacy Expectations for Local and Central Differential Privacy**\
 Mary Anne Smart, _Priyanka Nanayakkara_, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa Redmiles<sup>\*\*</sup>\
 [PDF](https://arxiv.org/pdf/2408.08475)

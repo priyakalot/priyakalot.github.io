@@ -8,6 +8,7 @@ I received a joint PhD in <a href="https://tsb.northwestern.edu/" target="_blank
 I can be reached at **priyankan [at] g.harvard.edu**.
 
 ### News
+* Apr 25 - I'll be speaking at the <a href="https://absurd.cs.tufts.edu/index.html" target="_blank">Annual Boston Security Usablity Day (ABSURD)</a> at Tufts University. See you there!
 * Mar 25 - Our (w/ Sohyeon Hwang, Yan Shvartzshnaider) paper _Trust and Friction: Negotiating How Information Flows Through Decentralized Social Media_ has been conditionally accepted to CSCW! Preprint <a href="https://arxiv.org/pdf/2503.02150" target="_blank">here</a>.
 * Jan 25 - This semester I'm co-teaching <a href="https://opendp.github.io/cs208/spring2025/" target="_blank">CS 2080: Applied Privacy for Data Science</a> with Salil Vadhan and James Honaker.
 * Jan 25 - I'll be reviewing for FAccT 2025. Looking forward to reading!

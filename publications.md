@@ -24,7 +24,7 @@ Science Advances | [PDF](https://www.science.org/doi/10.1126/sciadv.adk3452)
 
 **What Are the Chances? Explaining the Epsilon Parameter in Differential Privacy**\
 _Priyanka Nanayakkara_, Mary Anne Smart, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa Redmiles<sup>\*\*</sup>\
-USENIX Security Symposium 2023 | [PDF](https://www.usenix.org/system/files/usenixsecurity23-nanayakkara.pdf)\
+USENIX Security Symposium 2023 | [PDF](https://www.usenix.org/system/files/usenixsecurity23-nanayakkara.pdf) | [blog post](https://cdt.org/insights/youll-probably-be-protected-explaining-differential-privacy-guarantees/)\
 Spotlight talk at TPDP 2023 | [video](https://www.youtube.com/watch?v=8Cc0u606VxA)
 
 **What’s Driving Conflicts in Debates around Differential Privacy for the U.S. Census**\

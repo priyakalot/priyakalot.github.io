@@ -51,6 +51,7 @@ AIES 2021 | [PDF](https://arxiv.org/pdf/2105.04760.pdf) | [blog post](https://me
 <hr>
 
 #### Invited Papers
+**What to Consider When Considering Differential Privacy for Policy**\
 _Priyanka Nanayakkara_ and Jessica Hullman\
 Policy Insights from the Behavioral and Brain Sciences 2024 | [PDF](https://arxiv.org/pdf/2409.11680)
 

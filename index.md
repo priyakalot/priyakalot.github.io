@@ -13,20 +13,20 @@ I can be reached at **priyankan [at] g.harvard.edu**.
 * Apr 25 - I'll be speaking at the <a href="https://absurd.cs.tufts.edu/index.html" target="_blank">Annual Boston Security Usablity Day (ABSURD)</a> at Tufts University. See you there!
 * Mar 25 - Our (w/ Sohyeon Hwang, Yan Shvartzshnaider) paper _Trust and Friction: Negotiating How Information Flows Through Decentralized Social Media_ has been conditionally accepted to CSCW! Preprint <a href="https://arxiv.org/pdf/2503.02150" target="_blank">here</a>.
 * Mar 25 - Our (w/ Rachel Cummings, Shlomi Hod, Palak Jain, Gabriel Kaptchuk, Tamalika Mukherjee, Jayshree Sarathy, Jeremy Seeman) policy memo <a href="https://fas.org/publication/increasing-responsible-data-sharing-capacity-throughout-government/" target="_blank">_Increasing Responsible Data Sharing Capacity throughout Government_</a> has been published by the Day One Project (Federation of American Scientists).
-<!---
-* Jan 25 - This semester I'm co-teaching <a href="https://opendp.github.io/cs208/spring2025/" target="_blank">CS 2080: Applied Privacy for Data Science</a> with Salil Vadhan and James Honaker.
-* Jan 25 - I'll be reviewing for FAccT 2025. Looking forward to reading!
-* Jan 25 - Our (w/ Jayshree Sarathy, Mary Anne Smart, Rachel Cummings, Gabriel Kaptchuk, Elissa Redmiles) workshop submission on eliciting privacy preferences from data subjects has been accepted to the AAAI Workshop on Privacy-Preserving Artificial Intelligence!
-* Jan 25 - I'm giving an invited talk at the <a href="https://encore.ucsd.edu/privacy-workshop/" target="_blank">EnCORE Workshop on Defining Holistic Private Data Science for Practice</a> at UCSD.
-* Dec 24 - I'm giving an invited talk at the Harvard CS Colloquium.
-* Dec 24 - We (w/ danah boyd, Rachel Cummings, Gabriel Kaptchuk, Sean Kross, Elissa Redmiles, Jayshree Sarathy) are looking for new and/or visiting PhD students to join us in working on application-focused statistical research on differential privacy! More info <a href="https://bit.ly/participatoryDPStudent24" target="_blank">here</a>. Please reach out with questions!
-* Nov 24 - I gave an invited talk at the <a href="https://bostondataprivacy.github.io/privacy-day.html" target="_blank">Charles River Privacy Day</a> about the value of interfaces for making differential privacy usable for data curators and analysts.
-* Nov 24 - I presented to the Policy Red Teaming Working Group (led by Sarah Radway) at the Berkman Klein Center for Internet & Society on "Policy Red Teaming for Differential Privacy."
-* Oct 24 - I gave an invited talk at CMU's Privacy Topics Seminar (led by Sarah Scheffler).
-* Sept 24 - New paper w/ Jessica Hullman titled <a href="https://arxiv.org/abs/2409.11680" target="_blank">_What to Consider When Considering Differential Privacy for Policy_</a> published in _Policy Insights from the Brain and Behavioral Sciences (PIBBS)_. We offer guidance to policymakers deciding whether to use differential privacy for a given context.
-* Sept 24 - I attended and spoke at the new <a href="https://privacypublicpolicy-conference.github.io/website/" target="_blank">Privacy and Public Policy Conference</a> at Georgetown University about how we might elicit privacy-accuracy preferences from data subjects. I also gave an invited talk at Georgetown's Privacy & Crypto group.
-* Aug 24 - Together with Rachel Cummings, Gabriel Kaptchuk, Elissa Redmiles, and Jayshree Sarathy, I co-organized a workshop ("DP Beyond Algorithms") on sociotechnical aspects of deploying differential privacy, as part of the <a href="https://www.iq.harvard.edu/news/2024-opendp-community-meeting-recap-and-survey" target="_blank">OpenDP Community Meeting</a>.
--->
+
+<!---* Jan 25 - This semester I'm co-teaching <a href="https://opendp.github.io/cs208/spring2025/" target="_blank">CS 2080: Applied Privacy for Data Science</a> with Salil Vadhan and James Honaker.-->
+<!---* Jan 25 - I'll be reviewing for FAccT 2025. Looking forward to reading!-->
+<!---* Jan 25 - Our (w/ Jayshree Sarathy, Mary Anne Smart, Rachel Cummings, Gabriel Kaptchuk, Elissa Redmiles) workshop submission on eliciting privacy preferences from data subjects has been accepted to the AAAI Workshop on Privacy-Preserving Artificial Intelligence!-->
+<!---* Jan 25 - I'm giving an invited talk at the <a href="https://encore.ucsd.edu/privacy-workshop/" target="_blank">EnCORE Workshop on Defining Holistic Private Data Science for Practice</a> at UCSD.-->
+<!---* Dec 24 - I'm giving an invited talk at the Harvard CS Colloquium.-->
+<!---* Dec 24 - We (w/ danah boyd, Rachel Cummings, Gabriel Kaptchuk, Sean Kross, Elissa Redmiles, Jayshree Sarathy) are looking for new and/or visiting PhD students to join us in working on application-focused statistical research on differential privacy! More info <a href="https://bit.ly/participatoryDPStudent24" target="_blank">here</a>. Please reach out with questions!-->
+<!---* Nov 24 - I gave an invited talk at the <a href="https://bostondataprivacy.github.io/privacy-day.html" target="_blank">Charles River Privacy Day</a> about the value of interfaces for making differential privacy usable for data curators and analysts.-->
+<!---* Nov 24 - I presented to the Policy Red Teaming Working Group (led by Sarah Radway) at the Berkman Klein Center for Internet & Society on "Policy Red Teaming for Differential Privacy."
+<!---* Oct 24 - I gave an invited talk at CMU's Privacy Topics Seminar (led by Sarah Scheffler).-->
+<!---* Sept 24 - New paper w/ Jessica Hullman titled <a href="https://arxiv.org/abs/2409.11680" target="_blank">_What to Consider When Considering Differential Privacy for Policy_</a> published in _Policy Insights from the Brain and Behavioral Sciences (PIBBS)_. We offer guidance to policymakers deciding whether to use differential privacy for a given context.-->
+<!---* Sept 24 - I attended and spoke at the new <a href="https://privacypublicpolicy-conference.github.io/website/" target="_blank">Privacy and Public Policy Conference</a> at Georgetown University about how we might elicit privacy-accuracy preferences from data subjects. I also gave an invited talk at Georgetown's Privacy & Crypto group.-->
+<!---* Aug 24 - Together with Rachel Cummings, Gabriel Kaptchuk, Elissa Redmiles, and Jayshree Sarathy, I co-organized a workshop ("DP Beyond Algorithms") on sociotechnical aspects of deploying differential privacy, as part of the <a href="https://www.iq.harvard.edu/news/2024-opendp-community-meeting-recap-and-survey" target="_blank">OpenDP Community Meeting</a>.-->
+
 
 <hr>
 <p align="center"><i class="fas fa-envelope"></i> priyankan [at] g.harvard.edu <br/>

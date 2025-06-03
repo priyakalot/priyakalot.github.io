@@ -4,16 +4,16 @@ layout: default
 ### Publications
 *=equal contribution; \*\*=equal advising
 
-#### Preprints
+#### Peer-Reviewed Publications
+
 **Trust and Friction: Negotiating How Information Flows Through Decentralized Social Media**\
 Sohyeon Hwang, _Priyanka Nanayakkara_, Yan Shvartzshnaider\
-Conditionally accepted to CSCW | [PDF](https://arxiv.org/pdf/2503.02150)
+To appear at CSCW 2025 | [Preprint](https://arxiv.org/pdf/2503.02150)
 
 **Models Matter: Setting Accurate Privacy Expectations for Local and Central Differential Privacy**\
 Mary Anne Smart, _Priyanka Nanayakkara_, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Elissa Redmiles<sup>\*\*</sup>\
-[PDF](https://arxiv.org/pdf/2408.08475)
+To appear at PETS 2025 | [Preprint](https://arxiv.org/pdf/2408.08475)
 
-#### Peer-Reviewed Publications
 **Measure-Observe-Remeasure: An Interactive Paradigm for Differentially-Private Exploratory Analysis**\
 _Priyanka Nanayakkara_, Hyeok Kim, Yifan Wu, Ali Sarvghad, Narges Mahyar, Gerome Miklau, Jessica Hullman\
 IEEE S&P 2024 | [PDF](https://arxiv.org/pdf/2406.01964) | [video](https://www.youtube.com/watch?v=srk7GXcKre4)

@@ -8,9 +8,12 @@ I received a joint PhD in <a href="https://tsb.northwestern.edu/" target="_blank
 I can be reached at **priyankan [at] g.harvard.edu**.
 
 ### News
+* Jun 25 - Our (w/ Mary Anne Smart, Rachel Cummings, Gabriel Kaptchuk, Elissa Redmiles) paper was accepted to PETS! Preprint <a href="https://arxiv.org/pdf/2408.08475" target="_blank">here</a>.
+* Jun 25 - I'm on the PC for IEEE S&P 2026 and TPDP 2025.
 * Apr 25 - I'll be speaking at the <a href="https://absurd.cs.tufts.edu/index.html" target="_blank">Annual Boston Security Usablity Day (ABSURD)</a> at Tufts University. See you there!
 * Mar 25 - Our (w/ Sohyeon Hwang, Yan Shvartzshnaider) paper _Trust and Friction: Negotiating How Information Flows Through Decentralized Social Media_ has been conditionally accepted to CSCW! Preprint <a href="https://arxiv.org/pdf/2503.02150" target="_blank">here</a>.
 * Mar 25 - Our (w/ Rachel Cummings, Shlomi Hod, Palak Jain, Gabriel Kaptchuk, Tamalika Mukherjee, Jayshree Sarathy, Jeremy Seeman) policy memo <a href="https://fas.org/publication/increasing-responsible-data-sharing-capacity-throughout-government/" target="_blank">_Increasing Responsible Data Sharing Capacity throughout Government_</a> has been published by the Day One Project (Federation of American Scientists).
+<!---
 * Jan 25 - This semester I'm co-teaching <a href="https://opendp.github.io/cs208/spring2025/" target="_blank">CS 2080: Applied Privacy for Data Science</a> with Salil Vadhan and James Honaker.
 * Jan 25 - I'll be reviewing for FAccT 2025. Looking forward to reading!
 * Jan 25 - Our (w/ Jayshree Sarathy, Mary Anne Smart, Rachel Cummings, Gabriel Kaptchuk, Elissa Redmiles) workshop submission on eliciting privacy preferences from data subjects has been accepted to the AAAI Workshop on Privacy-Preserving Artificial Intelligence!
@@ -23,7 +26,7 @@ I can be reached at **priyankan [at] g.harvard.edu**.
 * Sept 24 - New paper w/ Jessica Hullman titled <a href="https://arxiv.org/abs/2409.11680" target="_blank">_What to Consider When Considering Differential Privacy for Policy_</a> published in _Policy Insights from the Brain and Behavioral Sciences (PIBBS)_. We offer guidance to policymakers deciding whether to use differential privacy for a given context.
 * Sept 24 - I attended and spoke at the new <a href="https://privacypublicpolicy-conference.github.io/website/" target="_blank">Privacy and Public Policy Conference</a> at Georgetown University about how we might elicit privacy-accuracy preferences from data subjects. I also gave an invited talk at Georgetown's Privacy & Crypto group.
 * Aug 24 - Together with Rachel Cummings, Gabriel Kaptchuk, Elissa Redmiles, and Jayshree Sarathy, I co-organized a workshop ("DP Beyond Algorithms") on sociotechnical aspects of deploying differential privacy, as part of the <a href="https://www.iq.harvard.edu/news/2024-opendp-community-meeting-recap-and-survey" target="_blank">OpenDP Community Meeting</a>.
-
+-->
 
 <hr>
 <p align="center"><i class="fas fa-envelope"></i> priyankan [at] g.harvard.edu <br/>

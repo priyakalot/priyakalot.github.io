@@ -8,6 +8,8 @@ I received a joint PhD in <a href="https://tsb.northwestern.edu/" target="_blank
 I can be reached at **priyankan [at] g.harvard.edu**.
 
 ### News
+* Sept 25 - I will be speaking at the <a href="https://www.eodsummit.com/" target="_blank">Eyes Off Data Summit</a> in Dublin about a differential privacy deployment registry. I'll also be attending the <a href="https://opendp.org/calendar_event/2025-opendp-community-meeting/" target="_blank">OpenDP Community Meeting</a>. 
+* Aug 25 - I spoke at the National Renewable Energy Laboratory about privacy-preserving data science.
 * Jun 25 - Our (w/ Mary Anne Smart, Rachel Cummings, Gabriel Kaptchuk, Elissa Redmiles) paper was accepted to PETS! Preprint <a href="https://arxiv.org/pdf/2408.08475" target="_blank">here</a>.
 * Jun 25 - I'm on the PC for IEEE S&P 2026 and TPDP 2025.
 * Apr 25 - I'll be speaking at the <a href="https://absurd.cs.tufts.edu/index.html" target="_blank">Annual Boston Security Usablity Day (ABSURD)</a> at Tufts University. See you there!

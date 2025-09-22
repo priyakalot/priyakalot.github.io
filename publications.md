@@ -4,6 +4,13 @@ layout: default
 ### Publications
 *=equal contribution; \*\*=equal advising
 
+#### Pre-Prints
+**Practitioners' Perspectives on a Differential Privacy Deployment Registry**\
+_Priyanka Nanayakkara_, Elena Ghazi, Salil Vadhan\
+[Preprint](https://arxiv.org/pdf/2509.13509)
+
+<hr>
+
 #### Peer-Reviewed Publications
 
 **Trust and Friction: Negotiating How Information Flows Through Decentralized Social Media**\
@@ -58,6 +65,11 @@ Policy Insights from the Behavioral and Brain Sciences 2024 | [PDF](https://arxi
 <hr>
 
 #### Selected Peer-Reviewed Workshop Papers and Non-Archival Publications
+**A Community-Driven Differential Privacy Deployment Registry**\
+Micah Altman, Sharon Ayalde, Rachel Cummings, Damien Desfontaines, Jack Fitzsimons, Elena Ghazi, Andrew Gruen, James Honaker, Gary Howarth, Nitin Kohli, Chuck McCallum, _Priyanka Nanayakkara_, Joseph P. Near, Robert Pisarczyk, Salil Vadhan\
+[PDF](https://csrc.nist.gov/pubs/ir/8588/ipd)
+
+
 <!--**Measure-Observe-(Re)measure: An Interactive Paradigm for Differentially-Private Exploratory Analysis**\
 _Priyanka Nanayakkara_, Hyeok Kim, Yifan Wu, Ali Sarvghad, Narges Mahyar, Gerome Miklau, Jessica Hullman\
 TPDP 2023-->

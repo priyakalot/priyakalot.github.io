@@ -10,13 +10,14 @@ I received a joint PhD in <a href="https://tsb.northwestern.edu/" target="_blank
 I can be reached at **priyankan [at] g.harvard.edu**.
 
 ### News
+* Oct 25 - I'll be presenting a poster and demo at NYC Privacy Day about a differential privacy deployment registry (see update below!)
 * Sept 25 - I will be speaking at the <a href="https://www.eodsummit.com/" target="_blank">Eyes-Off Data Summit</a> in Dublin about a differential privacy deployment registry. I'll also be attending the <a href="https://opendp.org/calendar_event/2025-opendp-community-meeting/" target="_blank">OpenDP Community Meeting</a>. Our (w/ Elena Ghazi and Salil Vadhan) preprint about the registry is avalible <a href="https://arxiv.org/abs/2509.13509" target="_blank">here</a>. You can comment on a proposal (co-authored with several others) for NIST to host the registry <a href="https://csrc.nist.gov/pubs/ir/8588/ipd" target="_blank">here</a>.
 * Aug 25 - I spoke at the National Renewable Energy Laboratory about privacy-preserving data science.
 * Jun 25 - Our (w/ Mary Anne Smart, Rachel Cummings, Gabriel Kaptchuk, Elissa Redmiles) paper was accepted to PETS! Preprint <a href="https://arxiv.org/pdf/2408.08475" target="_blank">here</a>.
 * Jun 25 - I'm on the PC for IEEE S&P 2026 and TPDP 2025.
 * Apr 25 - I'll be speaking at the <a href="https://absurd.cs.tufts.edu/index.html" target="_blank">Annual Boston Security Usablity Day (ABSURD)</a> at Tufts University. See you there!
-* Mar 25 - Our (w/ Sohyeon Hwang, Yan Shvartzshnaider) paper _Trust and Friction: Negotiating How Information Flows Through Decentralized Social Media_ has been conditionally accepted to CSCW! Preprint <a href="https://arxiv.org/pdf/2503.02150" target="_blank">here</a>.
-* Mar 25 - Our (w/ Rachel Cummings, Shlomi Hod, Palak Jain, Gabriel Kaptchuk, Tamalika Mukherjee, Jayshree Sarathy, Jeremy Seeman) policy memo <a href="https://fas.org/publication/increasing-responsible-data-sharing-capacity-throughout-government/" target="_blank">_Increasing Responsible Data Sharing Capacity throughout Government_</a> has been published by the Day One Project (Federation of American Scientists).
+<!---* Mar 25 - Our (w/ Sohyeon Hwang, Yan Shvartzshnaider) paper _Trust and Friction: Negotiating How Information Flows Through Decentralized Social Media_ has been conditionally accepted to CSCW! Preprint <a href="https://arxiv.org/pdf/2503.02150" target="_blank">here</a>.-->
+<!---* * Mar 25 - Our (w/ Rachel Cummings, Shlomi Hod, Palak Jain, Gabriel Kaptchuk, Tamalika Mukherjee, Jayshree Sarathy, Jeremy Seeman) policy memo <a href="https://fas.org/publication/increasing-responsible-data-sharing-capacity-throughout-government/" target="_blank">_Increasing Responsible Data Sharing Capacity throughout Government_</a> has been published by the Day One Project (Federation of American Scientists).-->
 
 <!---* Jan 25 - This semester I'm co-teaching <a href="https://opendp.github.io/cs208/spring2025/" target="_blank">CS 2080: Applied Privacy for Data Science</a> with Salil Vadhan and James Honaker.-->
 <!---* Jan 25 - I'll be reviewing for FAccT 2025. Looking forward to reading!-->

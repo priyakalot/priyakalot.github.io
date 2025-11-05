@@ -16,7 +16,7 @@ I can be reached at **priyankan [at] g.harvard.edu**.
 * Aug 25 - I spoke at the National Renewable Energy Laboratory about privacy-preserving data science.
 * Jun 25 - Our (w/ Mary Anne Smart, Rachel Cummings, Gabriel Kaptchuk, Elissa Redmiles) paper was accepted to PETS! Preprint <a href="https://arxiv.org/pdf/2408.08475" target="_blank">here</a>.
 * Jun 25 - I'm on the PC for IEEE S&P 2026 and TPDP 2025.
-* Apr 25 - I'll be speaking at the <a href="https://absurd.cs.tufts.edu/index.html" target="_blank">Annual Boston Security Usablity Day (ABSURD)</a> at Tufts University. See you there!
+<!---* Apr 25 - I'll be speaking at the <a href="https://absurd.cs.tufts.edu/index.html" target="_blank">Annual Boston Security Usablity Day (ABSURD)</a> at Tufts University. See you there!-->
 <!---* Mar 25 - Our (w/ Sohyeon Hwang, Yan Shvartzshnaider) paper _Trust and Friction: Negotiating How Information Flows Through Decentralized Social Media_ has been conditionally accepted to CSCW! Preprint <a href="https://arxiv.org/pdf/2503.02150" target="_blank">here</a>.-->
 <!---* * Mar 25 - Our (w/ Rachel Cummings, Shlomi Hod, Palak Jain, Gabriel Kaptchuk, Tamalika Mukherjee, Jayshree Sarathy, Jeremy Seeman) policy memo <a href="https://fas.org/publication/increasing-responsible-data-sharing-capacity-throughout-government/" target="_blank">_Increasing Responsible Data Sharing Capacity throughout Government_</a> has been published by the Day One Project (Federation of American Scientists).-->
 

@@ -7,6 +7,10 @@ layout: default
 
 [Increasing Responsible Data Sharing Capacity Throughout Government](https://fas.org/publication/increasing-responsible-data-sharing-capacity-throughoutgovernment/). _Federation of American Scientists Day One Project_, March 2025. (with Rachel Cummings, Shlomi Hod, Palak Jain, Gabriel Kaptchuk, Tamalika Mukherjee, Jayshree Sarathy, Jeremy Seeman)
 
+[Response to the RFI on Executive Branch Agency Handling of Commercially Available Information Containing Personally Identifiable Information](https://thepalakjain.com/wp-content/uploads/2025/01/cai_rfi.pdf). December 2024. (with Rachel Cummings, Shlomi Hod, Palak Jain, Gabriel Kaptchuk, Tamalika Mukherjee, Jayshree Sarathy)
+
+[Comment on “NIST SP 800-226: Guidelines for Evaluating Differential Privacy Guarantees”](https://www.cs.umd.edu/~kaptchuk/publications/nist24-dp-public-comment.pdf). March 2024. (with Rachel Cummings, Shlomi Hod, Gabriel Kaptchuk, Tamalika Mukherjee, Jayshree Sarathy, Jeremy Seeman)
+
 ### Public Writing
 [Launching the Differential Privacy Deployments Registry](https://opendp.org/2025/11/25/launching-the-differential-privacy-deployments-registry/). _OpenDP Blog_, November 2025. (with Elena Ghazi, Salil Vadhan)
 

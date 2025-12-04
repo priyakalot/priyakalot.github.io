@@ -2,7 +2,18 @@
 layout: default
 ---
 
+### Policy Memos, White Papers, Public Comments
+[A Community-Driven Differential Privacy Deployment Registry](https://csrc.nist.gov/pubs/ir/8588/ipd). _NIST Internal Report (Initial Draft)_, September 2025. (with Micah Altman, Sharon Ayalde, Rachel Cummings, Damien Desfontaines, Jack Fitzsimons, Elena Ghazi, Andrew Gruen, James Honaker, Gary Howarth, Nitin Kohli, Joe P. Near, Rob Pisarczyk, Salil Vadhan)
+
+[Increasing Responsible Data Sharing Capacity Throughout Government](https://fas.org/publication/increasing-responsible-data-sharing-capacity-throughoutgovernment/). _Federation of American Scientists Day One Project_, March 2025. (with Rachel Cummings, Shlomi Hod, Palak Jain, Gabriel Kaptchuk, Tamalika Mukherjee, Jayshree Sarathy, Jeremy Seeman)
+
 ### Public Writing
+[Launching the Differential Privacy Deployments Registry](https://opendp.org/2025/11/25/launching-the-differential-privacy-deployments-registry/). _OpenDP Blog_, November 2025. (with Elena Ghazi, Salil Vadhan)
+
+[You’ll Probably Be Protected: Explaining Differential Privacy Guarantees](https://cdt.org/insights/youll-probably-be-protected-explaining-differential-privacyguarantees/). _Center for Democracy and Technology Blog_, April 2025. (with Rachel Cummings)
+
+[Reflections from the Differential Privacy Beyond Algorithms Workshop](https://opendp.org/2025/03/14/reflections-from-the-differential-privacy-beyond-algorithms-workshop/). _OpenDP Blog_, March 2025. (with Amina Abdu, Palak Jain, Ivoline Ngong, Jayshree Sarathy)
+
 [How AI Researchers Are Redirecting AI’s Societal Impact](https://ai100.stanford.edu/sites/g/files/sbiybj18871/files/media/file/ai100_essaycompetition.pdf). _AI 100 Early Career Essay Competition (Stanford Institute for Human-Centered Artificial Intelligence)_, September 2023.
 
 [More discussion of differential privacy at the Census](https://statmodeling.stat.columbia.edu/2022/05/16/more-discussion-of-differential-privacy-at-the-census/). _Statistical Modeling, Causal Inference, and Social Science_, May 2022. (with Jessica Hullman)

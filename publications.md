@@ -10,6 +10,10 @@ _Priyanka Nanayakkara_, Elena Ghazi, Salil Vadhan\
 [Preprint](https://arxiv.org/pdf/2509.13509) | [blog post](https://opendp.org/2025/11/25/launching-the-differential-privacy-deployments-registry/)\
 🏆 Best poster/demo at NYC Privacy Day
 
+**“Having Confidence in my Confidence Intervals”: How Data Users Engage with Privacy-Protected Wikipedia Data**\
+Hal Triedman*, Jayshree Sarathy*, _Priyanka Nanayakkara_, Rachel Cummings**, Gabriel Kaptchuk**, Sean Kross**, and Elissa M. Redmiles**\
+[Study materials](https://jayshreesarathy.net/wikipedia-study.html) | Preprint available upon request
+
 <hr>
 
 #### Peer-Reviewed Publications

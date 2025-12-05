@@ -11,7 +11,7 @@ _Priyanka Nanayakkara_, Elena Ghazi, Salil Vadhan\
 🏆 Best poster/demo at NYC Privacy Day
 
 **“Having Confidence in My Confidence Intervals”: How Data Users Engage with Privacy-Protected Wikipedia Data**\
-Hal Triedman*, Jayshree Sarathy*, _Priyanka Nanayakkara_, Rachel Cummings**, Gabriel Kaptchuk**, Sean Kross**, and Elissa M. Redmiles**\
+Hal Triedman\*, Jayshree Sarathy\*, _Priyanka Nanayakkara_, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Sean Kross<sup>\*\*</sup>, and Elissa M. Redmiles<sup>\*\*</sup>\
 [Study materials](https://jayshreesarathy.net/wikipedia-study.html) | Preprint available upon request
 
 <hr>

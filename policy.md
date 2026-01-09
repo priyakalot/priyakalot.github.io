@@ -14,7 +14,7 @@ layout: default
 ### Public Writing
 [Launching the Differential Privacy Deployments Registry](https://opendp.org/2025/11/25/launching-the-differential-privacy-deployments-registry/). _OpenDP Blog_, November 2025. (with Elena Ghazi, Salil Vadhan)
 
-[You’ll Probably Be Protected: Explaining Differential Privacy Guarantees](https://cdt.org/insights/youll-probably-be-protected-explaining-differential-privacyguarantees/). _Center for Democracy and Technology Blog_, April 2025. (with Rachel Cummings)
+[You’ll Probably Be Protected: Explaining Differential Privacy Guarantees](https://cdt.org/insights/youll-probably-be-protected-explaining-differential-privacy-guarantees/). _Center for Democracy and Technology Blog_, April 2025. (with Rachel Cummings)
 
 [Reflections from the Differential Privacy Beyond Algorithms Workshop](https://opendp.org/2025/03/14/reflections-from-the-differential-privacy-beyond-algorithms-workshop/). _OpenDP Blog_, March 2025. (with Amina Abdu, Palak Jain, Ivoline Ngong, Jayshree Sarathy)
 

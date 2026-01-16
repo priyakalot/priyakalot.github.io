@@ -9,14 +9,13 @@ layout: default
 _Priyanka Nanayakkara_, Elena Ghazi, Salil Vadhan\
 [Preprint](https://arxiv.org/pdf/2509.13509) | [blog post](https://opendp.org/2025/11/25/launching-the-differential-privacy-deployments-registry/)\
 🏆 Best poster/demo at NYC Privacy Day
-
-**“Having Confidence in My Confidence Intervals”: How Data Users Engage with Privacy-Protected Wikipedia Data**\
-Hal Triedman\*, Jayshree Sarathy\*, _Priyanka Nanayakkara_, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Sean Kross<sup>\*\*</sup>, and Elissa M. Redmiles<sup>\*\*</sup>\
-[Preprint](https://arxiv.org/pdf/2512.06534)
-
 <hr>
 
 #### Peer-Reviewed Publications
+
+**“Having Confidence in My Confidence Intervals”: How Data Users Engage with Privacy-Protected Wikipedia Data**\
+Hal Triedman\*, Jayshree Sarathy\*, _Priyanka Nanayakkara_, Rachel Cummings<sup>\*\*</sup>, Gabriel Kaptchuk<sup>\*\*</sup>, Sean Kross<sup>\*\*</sup>, and Elissa M. Redmiles<sup>\*\*</sup>\
+Conditionally accepted to CHI 2026 | [Preprint](https://arxiv.org/pdf/2512.06534)
 
 **Trust and Friction: Negotiating How Information Flows Through Decentralized Social Media**\
 Sohyeon Hwang, _Priyanka Nanayakkara_, Yan Shvartzshnaider\

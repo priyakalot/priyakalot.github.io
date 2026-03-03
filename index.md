@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img class="profile-picture" src="profile-online.png">
+<!-- <img class="profile-picture" src="profile-online.png"> -->
 
 Welcome! I am a postdoctoral fellow in computer science at Harvard University, where I am hosted by Professor <a href="https://salil.seas.harvard.edu/" target="_blank">Salil Vadhan</a> and co-hosted by Professor <a href="https://www.bewitched.com/" target="_blank">Martin Wattenberg</a>. I am also part of <a href="https://opendp.org/" target="_blank">OpenDP</a> and the <a href="https://insight.seas.harvard.edu/" target="_blank">Insight + Interaction Lab</a>. During the 2024-25 academic year, I was a fellow at the <a href="https://crcs.seas.harvard.edu/news/2025/05/crcs-closes-after-20-years" target="_blank">Center for Research on Computation and Society (CRCS)</a>. I am a 2024 <a href="https://risingstars-eecs.mit.edu/" target="_blank">MIT EECS Rising Star</a> and <a href="https://datascience.ucsd.edu/rising-stars-in-data-science/" target="_blank">UCSD Data Science Rising Star</a>.
 

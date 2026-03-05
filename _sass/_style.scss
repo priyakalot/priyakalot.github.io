@@ -114,12 +114,6 @@ mark{
 
 /* Mobile */
 
-@media (max-width: 388px){
-	.profile-picture{
-		float: justify;
-	}
-}
-
 @media (max-width: 900px) {
     .container {
         max-width: $med-width;

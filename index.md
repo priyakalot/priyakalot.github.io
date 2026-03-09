@@ -12,6 +12,7 @@ I received a joint PhD in <a href="https://tsb.northwestern.edu/" target="_blank
 I can be reached at **priyankan [at] g.harvard.edu**.
 
 ### News
+* Mar 26 - Our paper (w/ Elena Ghazi and Salil Vadhan) has been accepted to IEEE S&P 2026! Our submission (w/ Hal Triedman, Jayshree Sarathy, Rachel Cummings, Gabe Kaptchuk, Sean Kross, Elissa Redmiles) has also been accepted to Wiki Workshop 2026.
 * Jan 26 - Happy new year! One submission to <a href="https://www.amazon.science/conferences-and-events/trusted-ai-symposium-2026" target="_blank">Amazon's Trustworthy AI Symposium</a> and two to the <a href="https://privacypublicpolicy-conference.github.io/website/" target="_blank">Privacy and Public Policy Conference</a> were accepted, and one paper has been conditionally accepted to CHI 2026!
 * Dec 25 - How do data users engage with privacy-protected Wikipedia pageviews data? Find out in our new <a href="https://arxiv.org/pdf/2512.06534" target="_blank">preprint</a>! (w/ Hal Triedman, Jayshree Sarathy, Rachel Cummings, Gabe Kaptchuk, Sean Kross, Elissa Redmiles). Also, the Institute for Policy Research at Northwestern published a <a href="https://www.ipr.northwestern.edu/nanayakkara-hullman-policybrief-2025.pdf" target="_blank">policy brief</a> on recent work with Jessica Hullman.
 * Nov 25 - I'll be speaking at the University of Wisconsin—Madison Security & Privacy Seminar.

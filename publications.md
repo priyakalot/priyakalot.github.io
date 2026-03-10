@@ -8,7 +8,7 @@ layout: default
 
 **Practitioners' Perspectives on a Differential Privacy Deployment Registry**\
 _Priyanka Nanayakkara_, Elena Ghazi, Salil Vadhan\
-To appear in IEEE S&P 2026 | [Preprint](https://arxiv.org/pdf/2509.13509) | [blog post](https://opendp.org/2025/11/25/launching-the-differential-privacy-deployments-registry/)\
+To appear in IEEE Symposium on Security and Privacy 2026 | [Preprint](https://arxiv.org/pdf/2509.13509) | [blog post](https://opendp.org/2025/11/25/launching-the-differential-privacy-deployments-registry/)\
 🏆 Best poster/demo at NYC Privacy Day
 
 **“Having Confidence in My Confidence Intervals”: How Data Users Engage with Privacy-Protected Wikipedia Data**\
@@ -27,7 +27,7 @@ PETS 2025 | [PDF](https://petsymposium.org/popets/2025/popets-2025-0150.pdf)\
 
 **Measure-Observe-Remeasure: An Interactive Paradigm for Differentially-Private Exploratory Analysis**\
 _Priyanka Nanayakkara_, Hyeok Kim, Yifan Wu, Ali Sarvghad, Narges Mahyar, Gerome Miklau, Jessica Hullman\
-IEEE S&P 2024 | [PDF](https://arxiv.org/pdf/2406.01964) | [video](https://www.youtube.com/watch?v=srk7GXcKre4)
+IEEE Symposium on Security and Privacy 2024 | [PDF](https://arxiv.org/pdf/2406.01964) | [video](https://www.youtube.com/watch?v=srk7GXcKre4)
 
 **REFORMS: Consensus-based Recommendations for Machine-learning-based Science**\
 Sayash Kapoor, Emily Cantrell, Kenny Peng, Thanh Hien Pham, Christopher A. Bail, Odd Erik Gundersen, Jake M. Hofman, Jessica Hullman, Michael A. Lones, Momin M. Malik, _Priyanka Nanayakkara_, Russell A. Poldrack, Inioluwa Deborah Raji, Michael Roberts, Matthew J. Salganik, Marta Serra-Garcia, Brandon M. Stewart, Gilles Vandewiele, Arvind Narayanan\

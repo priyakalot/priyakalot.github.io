@@ -9,7 +9,7 @@ I work at the intersection of <mark>data privacy & security</mark>, <mark>human-
 
 I received a joint PhD in <a href="https://tsb.northwestern.edu/" target="_blank">computer science and communication</a> from Northwestern University, where I was part of the <a href="https://mucollective.northwestern.edu/" target="_blank">Midwest Uncertainty Collective</a> and advised by Professor <a href="http://users.eecs.northwestern.edu/~jhullman/" target="_blank">Jessica Hullman</a>. During my PhD, I was a visiting researcher at Columbia University, a visiting graduate student at <a href="https://simons.berkeley.edu/programs/datadriven2022" target="_blank">Simons Institute, UC Berkeley</a>, and a research intern at Microsoft Research in <a href="https://www.microsoft.com/en-us/research/theme/fate/" target="_blank">FATE</a> and <a href="https://socialmediacollective.org/" target="_blank">SMC</a>.
 
-I can be reached at **priyankan [at] g.harvard.edu**.
+I can be reached at **priyankan [at] u.northwestern.edu**.
 
 ### News
 * Mar 26 - Our paper (w/ Elena Ghazi and Salil Vadhan) has been accepted to IEEE S&P 2026! Our submission (w/ Hal Triedman, Jayshree Sarathy, Rachel Cummings, Gabe Kaptchuk, Sean Kross, Elissa Redmiles) has also been accepted to Wiki Workshop 2026.

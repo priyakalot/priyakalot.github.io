@@ -40,7 +40,7 @@ I can be reached at **priyankan [at] u.northwestern.edu**.
 
 
 <hr>
-<p align="center"><i class="fas fa-envelope"></i> priyankan [at] g.harvard.edu <br/>
-<i class="fab fa-mastodon"></i> <a href="https://hci.social/@priyakalot" target="_blank">@priyakalot</a> | <i class="fab fa-twitter"></i> <a href="https://twitter.com/priyakalot" target="_blank">@priyakalot</a></p>
+<!---*<p align="center"><i class="fas fa-envelope"></i> priyankan [at] g.harvard.edu <br/>-->
+<!---*<i class="fab fa-mastodon"></i> <a href="https://hci.social/@priyakalot" target="_blank">@priyakalot</a> | <i class="fab fa-twitter"></i> <a href="https://twitter.com/priyakalot" target="_blank">@priyakalot</a></p>-->
 
 <!-- <img class="profile-custom" src="profile.jpeg"> -->

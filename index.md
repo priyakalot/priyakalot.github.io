@@ -9,7 +9,7 @@ My research is in <mark>privacy & security</mark> and <mark>human-computer inter
 
 I received a joint PhD in <a href="https://tsb.northwestern.edu/" target="_blank">computer science and communication</a> from Northwestern University, where I was advised by Professor <a href="http://users.eecs.northwestern.edu/~jhullman/" target="_blank">Jessica Hullman</a>. During my PhD, I was a visiting researcher at Columbia University, a visiting graduate student at <a href="https://simons.berkeley.edu/programs/datadriven2022" target="_blank">Simons Institute, UC Berkeley</a>, and a research intern at Microsoft Research in <a href="https://www.microsoft.com/en-us/research/theme/fate/" target="_blank">FATE</a> and <a href="https://socialmediacollective.org/" target="_blank">SMC</a>. During the 2024-25 academic year, I was a fellow at the <a href="https://crcs.seas.harvard.edu/news/2025/05/crcs-closes-after-20-years" target="_blank">Center for Research on Computation and Society (CRCS)</a>. I am an <a href="https://risingstars-eecs.mit.edu/" target="_blank">MIT EECS Rising Star</a> and <a href="https://datascience.ucsd.edu/rising-stars-in-data-science/" target="_blank">UCSD Data Science Rising Star</a>.
 
-I can be reached at **priyankan [at] u.northwestern.edu**.
+I can be reached at **priyanka.nanayakkara [at] georgetown.edu**.
 
 ### News
 * Mar 26 - Our paper (w/ Elena Ghazi and Salil Vadhan) has been accepted to IEEE S&P 2026! Our submission (w/ Hal Triedman, Jayshree Sarathy, Rachel Cummings, Gabe Kaptchuk, Sean Kross, Elissa Redmiles) has also been accepted to Wiki Workshop 2026.

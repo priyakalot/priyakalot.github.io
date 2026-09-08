@@ -4,11 +4,18 @@ layout: default
 ### Publications
 *=equal contribution; \*\*=equal advising
 
+#### Working Papers
+**Eliciting Security Preferences for Participatory AI**\
+_Priyanka Nanayakkara_, Jayshree Sarathy, Luc Wathieu, Rachel Cummings, Gabriel Kaptchuk, Elissa M. Redmiles
+
+**Transparency With Control: How Users Respond to AI Chatbots Modeling Them**\
+_Priyanka Nanayakkara_, Lena Armstrong, Fernanda Viégas, Martin Wattenberg
+
 #### Peer-Reviewed Publications
 
-**Practitioners' Perspectives on a Differential Privacy Deployment Registry**\
+**Making Privacy Public: Toward a Differential Privacy Deployment Registry**\
 _Priyanka Nanayakkara_, Elena Ghazi, Salil Vadhan\
-To appear in IEEE Symposium on Security and Privacy 2026 | [Preprint](https://arxiv.org/pdf/2509.13509) | [blog post](https://opendp.org/2025/11/25/launching-the-differential-privacy-deployments-registry/)\
+IEEE Symposium on Security and Privacy 2026 | [PDF](https://ieeexplore.ieee.org/document/11573365) | [blog post](https://opendp.org/2025/11/25/launching-the-differential-privacy-deployments-registry/)\
 🏆 Best poster/demo at NYC Privacy Day
 
 **“Having Confidence in My Confidence Intervals”: How Data Users Engage with Privacy-Protected Wikipedia Data**\
